@@ -1,18 +1,8 @@
-const arr = [1, 5, 4, 6, 8, 4, 9];
-// var even = [];
-// var odd = [];
-
-// function OddEven(number){
-//     for (let i = 0; i < number.length; i++) {
-//         if ((arr[i] % 2) == 0) {
-//           even.push(number[i]);
-    
-//         } else {
-//           even.push(number[i]);
-        
-//         }
-//       }
+var n = 10;
+// for(var i = 1; i<=n; i++){
+//     var result = '';
+//     for (let j = 1; j <= i; j++) {
+//          result =result +j + ' ';   
+//     }
+//     console.log(result);
 // }
-// OddEven(arr);
-// console.log(odd);
-// console.log(even);
